@@ -1,0 +1,4 @@
+1- Les fichiers table_hachage_division.py et table_hachage_multiplication.py contiennent respectivement les méthodes de hachage utilisées
+2- Le fichier collision.py est celui permet d'afficher les résultats des différentes fonctions
+
+Donc pour voir le résultat du travail, il faudra exécuter le fichier "collisions.py"
